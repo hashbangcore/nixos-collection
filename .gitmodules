@@ -1,0 +1,3 @@
+[submodule "scaffolds/bare"]
+	path = scaffolds/bare
+	url = ./scaffolds/borrar

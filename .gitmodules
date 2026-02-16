@@ -1,6 +1,6 @@
 [submodule "scaffolds/bare"]
 	path = scaffolds/bare
-	url = ./scaffolds/borrar
+	url = git@github.com:hashbangcore/nixos-template-bare
 [submodule "scaffolds/example"]
 	path = scaffolds/example
 	url = git@github.com:hashbangcore/nixos-template-example

@@ -1,0 +1,9 @@
+# sync: manage submodules (e.g., add, update, or remove)
+# build: changes in scripts, flakes and justfile
+# fix: bug fixes
+# package: install or remove packages
+# prune: cleanup of configuration or formatting files
+# remove: delete files or modules
+# service: enable or disable services
+# tweak: refinement of packages or services
+
